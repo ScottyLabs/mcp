@@ -1,7 +1,7 @@
 [project]
-name = "python-template"
+name = "mcp"
 version = "0.1.0"
-description = "Python template for ScottyLabs"
+description = "MCP servers for ScottyLabs"
 license = "Apache-2.0"
 readme = "README.md"
 requires-python = ">=3.12"
